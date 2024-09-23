@@ -1,0 +1,146 @@
+body {
+color: whitesmoke;
+background:rgb(166 166 166);
+margin: 0px;
+font-family: "Protest Guerrilla", sans-serif;
+margin-bottom: 100px
+}
+
+header {
+    border-bottom: solid 4px rgb(140 74 35);
+    padding: 30px;
+    font-size: 40px;
+    color: rgb(140 74 35)
+    }
+
+.chamada {
+    background: grey;
+    padding-bottom: 60px;
+padding-top: 60px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 6% ;
+}
+
+h1{
+    font-size: 38px;
+}
+
+p{
+    font-size: 22px;
+}
+
+img{
+    height: 180px
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap:15px
+}
+
+.categorias {
+    padding-left: 30px;
+padding-right: 30px;
+margin-top:55px;
+
+}
+
+
+.categoria-videos img {
+opacity: 0.25;
+
+}
+
+
+.categoria-videos img:hover {
+opacity:1.0 ;
+border: 2px solid rgb(140 74 35)
+}
+
+.categorias h2 {
+    color:rgb(140 74 35);
+    font-size: 20px;
+}
+
+
+
+.categoria-videos2{
+    display: flex; 
+    overflow-x: auto;
+    gap: 15px;
+}
+
+.categorias2 {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 25px;
+}
+
+.categoria-videos2 img {
+opacity: 0.25;
+}
+
+.categoria-videos2 img:hover {
+opacity: 1.0;
+border: 2px solid rgb(140 74 35)
+}
+
+.categorias2 h3 {
+    color: rgb(140 74 35);
+    font-size: 20px;
+}
+
+.categoria-videos3{
+    display: flex; 
+    overflow-x: auto;
+    gap: 15px;
+}
+.categorias3 {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 25px;
+}
+
+.categoria-videos3 img {
+    opacity: 0.25;
+    }
+
+    .categoria-videos3 img:hover {
+        opacity: 1.0;
+        border: 2px solid rgb(140 74 35)
+        }
+        
+        .categorias3 h4 {
+            color: rgb(140 74 35);
+            font-size: 20px;
+        }
+        
+.categoria-videos4{
+    display: flex; 
+    overflow-x: auto;
+    gap: 15px;
+}
+.categorias4 {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 25px;
+}
+.categoria-videos4 img {
+    opacity: 0.25;
+        }
+
+    .categoria-videos4 img:hover {
+        opacity: 1.0;
+        border: 2px solid rgb(140 74 35);
+        }
+        
+        .categorias4 h5 {
+            color: rgb(140 74 35);
+            font-size: 20px;
+         }
+        
